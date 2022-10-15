@@ -1,0 +1,5 @@
+com\hbnt\dao\ProductDAO.class
+com\hbnt\entity\Product.class
+com\hbnt\dao\impl\ProdcutDAOImpl.class
+com\hbnt\test\HibernateTest.class
+com\hbnt\utils\HibernateUtils.class
